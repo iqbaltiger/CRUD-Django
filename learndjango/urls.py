@@ -21,5 +21,5 @@ urlpatterns = [
     path('school/', include('school.urls')),
     path('task_app/', include('task_app.urls')),
     #path('book/', include('book.urls')),
-    path('', include('todo.urls')),
+    path('', include('todo.urls'))
 ]
