@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/880678/70549272-1a679480-1b9e-11ea-83d0-a75f3a8e9457.png" />
+
 Welcome to the CRUD-Django wiki
 This project is developed for a Todo management. And this is based on Django2.2
 
